@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Computer Science"
-permalink: /ComputerScience
+title: "programming language"
+permalink: /index.html
 author_profile: true
 ---
 
